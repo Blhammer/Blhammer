@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Everything
 - 💬 Ask me about everything
 - ⚡ Fun fact: There are no fun facts!
+- 🖥️ Leetcode Every Day 
+- 🎯 Improve all my projects thanks to the Leetcode problems practice
 
 - Have fun!
 
