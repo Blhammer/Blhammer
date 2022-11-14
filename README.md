@@ -6,8 +6,6 @@
 - 🖥️ Leetcode Every Day 
 - 🎯 Improve all my projects thanks to the Leetcode problems practice
 
-- Have fun!
-
 ## Skills:
    ![image](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
    ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
