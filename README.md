@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 ![Profile View Counter](https://komarev.com/ghpvc/?username=Blhammer&style=for-the-badge&color=brightgreen)
 
 - 🌱 I’m currently learning Everything
 - 💬 Ask me about everything
@@ -10,7 +10,6 @@
 
 ## Technologies:
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=Blhammer&style=for-the-badge&color=brightgreen)
 
 ## Connect with me:
 
