@@ -1,6 +1,6 @@
 ### Hi there 👋 ![Profile View Counter](https://komarev.com/ghpvc/?username=Blhammer&style=for-the-badge&color=brightgreen)
 
-- 🌱 I’m currently learning Everything
+- 🌱 I’m currently learning Java
 - 💬 Ask me about everything
 - ⚡ Fun fact: There are no fun facts!
 - 🖥️ Leetcode Every Day 
