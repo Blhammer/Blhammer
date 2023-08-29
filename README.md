@@ -3,8 +3,9 @@
 - 🌱 I’m currently learning Java
 - 💬 Ask me about everything
 - ⚡ Fun fact: There are no fun facts!
-- 🖥️ Leetcode Every Day 
+- 🖥️ Leetcode Every Day
 - 🎯 Improve all my projects thanks to the Leetcode problems practice
+- Participate in the BG-JUG Academy with Java
 
 ## Skills:
    ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
