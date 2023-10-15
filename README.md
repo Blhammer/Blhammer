@@ -1,4 +1,4 @@
-## Hi there 👋 ![Profile View Counter](https://komarev.com/ghpvc/?username=Blhammer&style=for-the-badge&color=brightgreen)
+## Hi 👋 ![Profile View Counter](https://komarev.com/ghpvc/?username=Blhammer&style=for-the-badge&color=brightgreen)
 
 - 🌱 I’m currently learning Java
 - 💬 Ask me about everything
@@ -39,5 +39,5 @@
    
 ## Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)]([https://www.linkedin.com](https://www.linkedin.com/in/emil-milev-369699289/))
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](https://www.gmail.com)
