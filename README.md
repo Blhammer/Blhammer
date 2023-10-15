@@ -1,4 +1,4 @@
-### Hi there 👋 ![Profile View Counter](https://komarev.com/ghpvc/?username=Blhammer&style=for-the-badge&color=brightgreen)
+## Hi there 👋 ![Profile View Counter](https://komarev.com/ghpvc/?username=Blhammer&style=for-the-badge&color=brightgreen)
 
 - 🌱 I’m currently learning Java
 - 💬 Ask me about everything
