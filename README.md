@@ -2,10 +2,10 @@
 
 - 🌱 I’m currently learning Java
 - 💬 Ask me about everything
-- ⚡ Fun fact: There are no fun facts!
+- ⚡ Fun fact: The unicorn is the national animal of Scotland.
 - 🖥️ Leetcode Every Day
 - 🎯 Improve all my projects thanks to the Leetcode problems practice
-- Participate in the BG-JUG Academy with Java
+- Participate in the BG-JUG Academy with Java Advanced course
 
 ## Skills:
    ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
