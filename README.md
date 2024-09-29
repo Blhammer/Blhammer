@@ -1,4 +1,4 @@
-## Hi 👋 ![Profile View Counter](https://komarev.com/ghpvc/?username=Blhammer&style=for-the-badge&color=brightgreen)
+## Hi 👋
 
 - 💬 Ask me about everything
 - ⚡ Fun fact: The unicorn is the national animal of Scotland.
